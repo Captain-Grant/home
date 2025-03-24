@@ -1,53 +1,47 @@
-Plan	Box number	Box name (GD)	2024
-	T4 - 14	Employment income	195,927.63
-	T4 - 16	Employee's CPP contributions	3,867.50
-	T4 - 16A	Employee's second CPP contributions	188.00
-	T4 - 18	Employee's EI premiums	1,049.12
-	T4 - 20	RPP contributions	4,254.36
-	T4 - 22	Income tax deducted	56,247.94
-	T4 - 24	EI insurable earnings	63,200.00
-	T4 - 26	CPP/QPP pensionable earnings	73,200.00
-	T4 - 46	Charitable donations	52.00
-	T4 - 52	Pension adjustment	21,587.00
-	T4 - 85	Employee-paid premiums - health	
-	T4 - 40	Other taxable allowances and benefits	6,083.55
-	57	Employment income – March 15 to May 9	
-	58	Employment income – May 10 to July 4	
-	59	Employment income – July 5 to August 29	
-	60	21587	
-	Box number	Box name (IL)	2024
-	T4 - 14	Employment income	
-	T4 - 16	Employee's CPP contributions	
-	T4 - 18	Employee's EI premiums	
-	T4 - 22	Income tax deducted	
-	T4 - 24	EI insurable earnings	
-	T4 - 26	CPP/QPP pensionable earnings	
-	T4 - 40	Other taxable allowances and benefits	
-	57	Employment income – March 15 to May 9	
-	58	Employment income – May 10 to July 4	
-	59	Employment income – July 5 to August 29	
-	60	Employment income – August 30 to September 26	
-IL_TD_GIC	T5-13	Interest from Canadian Sources	747.95
-	Box number	Box name (IL)	2024
-	T4 - 14	Employment income	5,783.93
-	T4 - 16	Employee's CPP contributions	312.11
-	T4 - 18	Employee's EI premiums	96.01
-	T4 - 22	Income tax deducted	600.72
-	T4 - 24	EI insurable earnings	5,783.93
-	T4 - 26	CPP/QPP pensionable earnings	5,783.93
-	T4 - 40	Other taxable allowances and benefits	
-AD_TDSB	T4A - 105	(TDSB Award)	500.00
-AD_RESP_TD	T4A - 042 	RESP Payments (TD)	8,000.00
-AD_CASH_TD	T5-24	Actual amount of eligible dividends	438.13
-AD_CASH_TD	T5-25	Taxable amount of eligible dividends	604.62
-AD_CASH_TD	T5-26	Dividend tax credit of eligible dividends	90.81
-AD_CASH_SL	T3-21	Capital Gains	242.15
-AD_CASH_SL	T3-25	Foreign non-business income	319.45
-AD_CASH_SL	T3-34	Foreign non-business income tax paid	44.78
-AD_CASH_SL	T3-53	Capital gains from dispositions after June 24, 2024	242.15
-			
-		Tuition	0.00
-		Book fee	73.45
+Box number	Box name (GD)	2024
+T4 - 14	Employment income	195,927.63
+T4 - 16	Employee's CPP contributions	3,867.50
+T4 - 16A	Employee's second CPP contributions	188.00
+T4 - 18	Employee's EI premiums	1,049.12
+T4 - 20	RPP contributions	4,254.36
+T4 - 22	Income tax deducted	56,247.94
+T4 - 24	EI insurable earnings	63,200.00
+T4 - 26	CPP/QPP pensionable earnings	73,200.00
+T4 - 46	Charitable donations	52.00
+T4 - 52	Pension adjustment	21,587.00
+T4 - 85	Employee-paid premiums - health	
+T4 - 40	Other taxable allowances and benefits	6,083.55
+Box number	Box name (IL)	2024
+T4 - 14	Employment income	131,957.39
+T4 - 16	Employee's CPP contributions	3,867.50
+T4 - 16A	Employee's second CPP contributions	188.00
+T4 - 18	Employee's EI premiums	1,049.12
+T4 - 22	Income tax deducted	31,557.91
+T4 - 24	EI insurable earnings	63,200.00
+T4 - 26	CPP/QPP pensionable earnings	73,200.00
+T4 - 40	Other taxable allowances and benefits	5,096.56
+T5-13	Interest from Canadian Sources	747.95
+Box number	Box name (IL)	2024
+T4 - 14	Employment income	5,783.93
+T4 - 16	Employee's CPP contributions	312.11
+T4 - 18	Employee's EI premiums	96.01
+T4 - 22	Income tax deducted	600.72
+T4 - 24	EI insurable earnings	5,783.93
+T4 - 26	CPP/QPP pensionable earnings	5,783.93
+T4 - 40	Other taxable allowances and benefits	
+T4A - 105	(TDSB Award)	500.00
+T4A - 042 	RESP Payments (TD)	8,000.00
+T5-24	Actual amount of eligible dividends	438.13
+T5-25	Taxable amount of eligible dividends	604.62
+T5-26	Dividend tax credit of eligible dividends	90.81
+T3-21	Capital Gains	242.15
+T3-25	Foreign non-business income	319.45
+T3-34	Foreign non-business income tax paid	44.78
+T3-53	Capital gains from dispositions after June 24, 2024	242.15
+	Tuition	7,712.65
+	Book fee	73.45
+		
+
 
 
   Updated @2025.03.22	2024
